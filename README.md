@@ -1,5 +1,6 @@
 ## Описание функционала
-![Пример](screenshots/ex.png)
+<img width="809" height="781" alt="image" src="https://github.com/user-attachments/assets/9d9cb3ae-ad58-4b89-9048-482aa5eb8de5" />
+
 Калькулятор с тремя режимами работы:
 
 ### 🔢 Стандартный режим
@@ -40,4 +41,5 @@
 2. Выберите File → Open File or Project
 3. Найдите и выберите CMakeLists.txt в корне проекта
 4. Настройте комплект сборки (Kit)
+
 5. Нажмите Build → Build All (или Ctrl+B)
