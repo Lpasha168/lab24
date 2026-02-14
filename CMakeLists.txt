@@ -15,8 +15,8 @@ add_executable(AdvancedCalculator
     mainwindow.ui
     historymanager.cpp
     historymanager.h
-    calculator.cpp
-    calculator.h
+ 
 )
 
 target_link_libraries(AdvancedCalculator Qt6::Widgets)
+
